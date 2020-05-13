@@ -1,0 +1,12 @@
+{
+  "name": "accessibility-checker-dep-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "accessibility-checker": "^3.0.1"
+  }
+}
